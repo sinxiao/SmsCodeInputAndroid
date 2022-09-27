@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sinxiao:SmsCodeInputAndroid:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f485275015524f5307127eaae462bacb/transformed/SmsCodeInputAndroid-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f485275015524f5307127eaae462bacb/transformed/SmsCodeInputAndroid-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f485275015524f5307127eaae462bacb/transformed/SmsCodeInputAndroid-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sinxiao/SmsCodeInputAndroid/1.0.0/4830df246ab387e05dd73fbb7fce1cb041abc7b0/SmsCodeInputAndroid-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
