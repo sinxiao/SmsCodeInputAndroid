@@ -5,6 +5,8 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/login_activity.xml" value="0.12968591691995948" />
+        <entry key="smscodeinput/src/main/res/drawable/login_code_number_bg_gray.xml" value="0.1" />
+        <entry key="smscodeinput/src/main/res/layout/rw_login_phone_code.xml" value="0.1" />
       </map>
     </option>
   </component>
