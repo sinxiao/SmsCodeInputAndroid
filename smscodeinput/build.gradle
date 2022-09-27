@@ -4,6 +4,9 @@ plugins {
     id 'maven-publish'
 }
 
+//group = 'com.example.smscodeinput'
+//version = '1.0.0'
+
 android {
     compileSdk 32
 
@@ -47,12 +50,12 @@ afterEvaluate {
     publishing {
         publications {
             // Creates a Maven publication called "release".
-//            release(MavenPublication) {
-//                from components.release
-//                groupId = 'com.example.smscodeinput'
-//                artifactId = 'smscodeinput'
-//                version = '1.0.0'
-//            }
+            release(MavenPublication) {
+                from components.release
+                groupId = 'com.example.smscodeinput'
+                artifactId = 'smscodeinput'
+                version = '1.0.0'
+            }
         }
     }
 }
